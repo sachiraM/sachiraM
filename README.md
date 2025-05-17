@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **New Projects🧐**
 
-- 🌱 I’m currently learning **Kotlin & MERN**
-
 - 📫 How to reach me: **[@sachira_mihidul](mailto:sachiramihidul@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
